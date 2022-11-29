@@ -25,7 +25,6 @@
 </div>
  <br>
  <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMMEL95&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMMEL95&layout=compact&theme=dracula&exclude_repo=clone-web-scrapper"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMMEL95&langs_count=8&layout=compact&theme=dracula&exclude_repo=clone-web-scrapper"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=HIMMEL95&show_icons=true&theme=dracula"/>
  </div>
