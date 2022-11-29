@@ -1,9 +1,9 @@
 <h1 align="center"> 🛫 Hi, I'm HANEUL LEE (HIMMEL95) 🛬 </h1>
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
- <a href="http://3.35.136.131/"> <strong>📍 MJ's megabox</strong> </a> 
+ <a href="http://www.spopia.pe.kr"> <strong>📍 HIMMEL's SPOPIA</strong> </a> 
  <br>
- <a href=""> <strong>📍 SPACE MARKET</strong> </a> 
+ <a href=""> <strong>📍 tasteZip</strong> </a> 
  <br>
  <h3 align="left">🛠 Skills</h3>
  Languages & Platforms & Tools<br><br>
@@ -25,6 +25,6 @@
 </div>
  <br>
  <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccyis&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luccyis&show_icons=true&theme=dracula"/>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMMEL95&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HIMMEL95&show_icons=true&theme=dracula"/>
  </div>
