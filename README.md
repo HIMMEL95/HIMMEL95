@@ -1,7 +1,7 @@
 <h1 align="center"> 🛫 Hi, I'm HANEUL LEE (HIMMEL95) 🛬 </h1>
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
- <a href="http://www.spopia.pe.kr"> <strong>📍 HIMMEL's SPOPIA</strong> </a> 
+ <a href="http://www.spopia.pe.kr"> <strong>📍SPOPIA</strong> </a> 
  <br>
  <a href="https://github.com/HIMMEL95/Germany"> <strong>📍 HIMMEL's SPOPIA Github</strong> </a> 
  <br>
