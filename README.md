@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+ <a href="[https://www.credly.com/badges/a71e23c6-5c1b-4d29-bd8a-53ba7babb8df/public_url](https://www.credly.com/badges/49839d5a-1a64-451e-aa01-b22987163c97)" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100px"></a>
   <!--
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   -->
