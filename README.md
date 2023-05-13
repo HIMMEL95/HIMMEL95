@@ -13,6 +13,7 @@
  Languages & Platforms & Tools<br><br>
   <a href="[https://www.credly.com/badges/a71e23c6-5c1b-4d29-bd8a-53ba7babb8df/public_url](https://www.credly.com/badges/49839d5a-1a64-451e-aa01-b22987163c97)" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100px"></a>
  <br>
+ <br>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
